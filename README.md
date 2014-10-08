@@ -1,5 +1,5 @@
 TwisterBot
 ==========
 
-Bot for Twister game
+Bot for Twister game. 
 Описание работы программы находится в файле Краткое описание и диаграммы.docx в корне каталога.
